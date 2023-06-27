@@ -1,0 +1,120 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3317492F2E4D17E8F7',
+    participant: undefined
+  },
+  messageTimestamp: 1687829815,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51937133348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEDA6DA4FD283E1BB99',
+    participant: undefined
+  },
+  messageTimestamp: 1687829874,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dame los pasos para crear los pools',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame los pasos para crear los pools',
+  from: '51937133348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3A48A041B502A2D7DA93',
+    participant: undefined
+  },
+  messageTimestamp: 1687829941,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Egesbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Egesbot',
+  from: '51937133348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3A261D87E6B2209D6597',
+    participant: undefined
+  },
+  messageTimestamp: 1687829966,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como genero un resumen diario',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como genero un resumen diario',
+  from: '51937133348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1E6DC9D76A1AE44F42',
+    participant: undefined
+  },
+  messageTimestamp: 1687830038,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Egesbot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Egesbot',
+  from: '51937133348'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937133348@s.whatsapp.net',
+    fromMe: false,
+    id: '3A57819E05D14264CB09',
+    participant: undefined
+  },
+  messageTimestamp: 1687830060,
+  pushName: 'Alexander Rojas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como genero un resumen diario desde el egestor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como genero un resumen diario desde el egestor',
+  from: '51937133348'
+}
